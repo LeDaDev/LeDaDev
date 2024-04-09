@@ -45,14 +45,14 @@
   <a href="https://facebook.com/banledangyeuu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+    <a href="https://tiktok.com/@banledangyeuu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  />
+  </a>
   <a href="https://instagram.com/banledangyeuu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discordapp.com/users/lehoangf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://tiktok.com/@banledangyeuu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  />
   </a>
 </div>
 

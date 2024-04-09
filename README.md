@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://tiktok.com/@banledangyeuu" target="_blank">
-    <img src="[https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge](https://cdn.pixabay.com/photo/2022/02/09/08/24/tiktok-7002866_960_720.png)" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  />
   </a>
 </div>
 

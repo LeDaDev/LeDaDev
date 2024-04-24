@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="266" src="https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/356811794_842540177206328_5761685797739533588_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGkB9MMa04k8VKMJLBCYmAmHpXrZB8SDGYeletkHxIMZv47zvDlz-4t9OT27QKIhBo-lsoLf0wSy_AoKYhD3yL6&_nc_ohc=wAgl37Dc9J4Ab7MzTAc&_nc_ht=scontent.fsgn2-8.fna&oh=00_AfDcahGJ2UVQK5iSspJ6QDD7B3pQ_ychcyDnxcP_bIB1mw&oe=661B30ED"  />
+  <img height="266" src="https://github.com/LeDaDev/LeDaDev/blob/98110a32937c8d24a0a1f2e99a6b6a12e20ac9bf/le.png"  />
 </div>
 
 ###

@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lê, and I'm a Freelance Designer, from Việt Nam</h2>
+<h2 align="left">Hi 👋! My name is Lê, I'm a Freelance Designer - Developer, from Việt Nam</h2>
 
 ###
 
